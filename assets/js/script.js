@@ -23,7 +23,7 @@ const propiedades_alquiler = [
   },
   {
     nombre: 'Loft moderno estilo Seúl',
-    src: 'assets/img/img-main.jpeg',
+    src: 'assets/img/loft-seul.png',
     descripcion: 'Un espacio de concepto abierto con ventanales amplios y suelo radiante, ideal para disfrutar de maratones de K-dramas.',
     ubicacion: '88 Gangnam Blvd, Ciudad Nueva, CA 10293',
     habitaciones: 1,
